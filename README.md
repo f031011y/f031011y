@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe! É um prazer te ver por aqui! 😃
 
-- 🔭 Atualmente trabalho como `analista de dados` em projetos pessoais.
+- 🔭 Atualmente trabalho como `cientista de dados jr.` em projetos pessoais.
 - 🌱 Estou aprendendo tecnologias voltadas para a área de dados, como _Python_, _Pandas_ e _Matplotlib_.
 - 💡 Possuo grande interesse por ciência de dados e _machine learning_.
 - 👯 Busco colaborar em diferentes projetos a fim de aplicar meus conhecimentos e aprender um pouco mais.
@@ -14,6 +14,7 @@
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-plain.svg" />
+<img align="left" alt="Jupyter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
