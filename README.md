@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe! É um prazer te ver por aqui! 😃
 
-- 🔭 Atualmente trabalho como `cientista de dados jr.` em projetos pessoais.
+- 🔭 Atualmente trabalho como `Cientista de Dados Jr.` em projetos pessoais.
 - 🌱 Estou aprendendo tecnologias voltadas para a área de dados, como _Python_, _Pandas_ e _Matplotlib_.
 - 💡 Possuo grande interesse por ciência de dados e _machine learning_.
 - 👯 Busco colaborar em diferentes projetos a fim de aplicar meus conhecimentos e aprender um pouco mais.
